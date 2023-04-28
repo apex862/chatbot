@@ -1,0 +1,10 @@
+if mainn doesnt work ....
+
+delete the data base
+database.db
+
+
+gud
+chatbot stores its learning in that file so if it already exists Error
+errr..........................................or
+
